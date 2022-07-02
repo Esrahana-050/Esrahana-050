@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">I currently studying in IT DEL. I like to learn, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=esrahanamnrg&label=Esrahana's%20Profile%20Views%20&color=dc143c&style=plastic" alt="esrahana050" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=esrahanamnrg&label=Esrahana's%20Profile%20Views%20&color=dc143c&style=plastic" alt="esrahanamnrg" /> </p>
 
 ## 🔥 Streak Stats
 
