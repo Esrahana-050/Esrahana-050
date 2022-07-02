@@ -6,11 +6,11 @@
 <hr/>
 <h4 align="center">I currently studying in IT DEL. I like to learn, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Esrahana-050&label=Esrahana's%20Profile%20Views%20&color=dc143c&style=plastic" alt="esrahana050" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=esrahanamnrg&label=Esrahana's%20Profile%20Views%20&color=dc143c&style=plastic" alt="esrahana050" /> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esrahana-050&theme=algolia" alt="Esrahana-050" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esrahanamnrg&theme=algolia" alt="esrahanamnrg" /></p>
 
 ## 🛠️ My Skills
 
@@ -54,10 +54,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Esrahana-050"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Esrahana-050&show_icons=true&locale=en&theme=algolia" alt="Esrahana-050" height="192px"/></a>
+    <a href="https://github.com/esrahanamnrg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=esrahanamnrg&show_icons=true&locale=en&theme=algolia" alt="esrahanamnrg" height="192px"/></a>
 	</p>
 	<p  align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Esrahana-050&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Esrahana-050" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esrahanamnrg&show_icons=true&locale=en&layout=compact&theme=algolia" alt="esrahanamnrg" height="192px"/>
 	</p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -67,7 +67,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Esrahana-050"><img alt="Esrahana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Esrahana-050&custom_title=Esrahana's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/esrahanamnrg"><img alt="Esrahana's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=esrahanamnrg&custom_title=Esrahana's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
@@ -78,7 +78,7 @@
 
 <p align="center">
 	<a href="mailto:candida.esramanurung01@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Esrahana-050"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://github.com/esrahanamnrg"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/putri-esrahana-manurung"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 
 	
